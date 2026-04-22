@@ -13,11 +13,13 @@ Power BI
 Data Modeling (Star Schema)
 DAX (Time Intelligence, Profitability Analysis)
 Data Visualization
+
 📌 Key Features
 Designed a star schema data model (12+ tables) for efficient analysis
 Built DAX measures for YoY growth, running totals, and profit margins
 Developed interactive dashboards to track global sales and profitability trends
 Enabled drill-down analysis across regions (Asia, Europe, North America)
+
 📈 Key Insights
 Identified that key brands contribute ~60% of total profit despite ~40% of sales volume
 Highlighted regional performance variations and store-level trends
